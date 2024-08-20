@@ -1,5 +1,5 @@
 # Travearth 
-Teknofest Turizm katagorisi için yapılmış olan uygulamamız Travearth projesi karşılama ekranı
+Teknofest Turizm katagorisi için yapılmış olan projemiz Travearth uygulamasınin karşılama ekranı
 
 
 # Çıktı
